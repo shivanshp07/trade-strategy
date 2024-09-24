@@ -1,16 +1,37 @@
 {
-  "name": "trading-bot-coindcx",
-  "module": "index.ts",
-  "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
+  "name": "trade-strategy",
+  "version": "1.0.0",
+  "description": "A project to simulate cryptocurrency arbitrage opportunities across different markets.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
   },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanshp07/trade-strategy.git"
   },
+  "keywords": [
+    "cryptocurrency",
+    "arbitrage",
+    "trading",
+    "simulation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivanshp07/trade-strategy/issues"
+  },
+  "homepage": "https://github.com/shivanshp07/trade-strategy#readme",
   "dependencies": {
-    "axios": "^1.7.7",
+    "axios": "^1.4.0",
     "crypto": "^1.0.1",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
   }
 }
