@@ -60,3 +60,65 @@ The project continuously simulates trades and provides output on possible arbitr
 
 ## **Sample Output**
 
+{
+  highestBid: -100,
+  lowestAsk: 10000000,
+}
+{
+  highestBid: -100,
+  lowestAsk: 10000000,
+}
+{
+  highestBid: -100,
+  lowestAsk: 10000000,
+}
+You can convert 1 SOL into 9.999999999e-8 SOL
+You can convert -99.999 INR into 10000 INR
+placing order for -99.99
+{
+  code: 401,
+  message: "Invalid credentials",
+  status: "error",
+}
+{
+  highestBid: 19.001,
+  lowestAsk: 19.722,
+}
+{
+  highestBid: 86.84,
+  lowestAsk: 86.88,
+}
+{
+  highestBid: 0.2217,
+  lowestAsk: 0.2218,
+}
+You can convert 1 SOL into 1.0234051050587276 SOL
+You can convert 19.002000000000002 INR into 19.252428000000002 INR
+{
+  highestBid: 19.001,
+  lowestAsk: 19.722,
+}
+{
+  highestBid: 86.84,
+  lowestAsk: 86.88,
+}
+{
+  highestBid: 0.2217,
+  lowestAsk: 0.2218,
+}
+You can convert 1 SOL into 1.0234051050587276 SOL
+You can convert 19.002000000000002 INR into 19.252428000000002 INR
+{
+  highestBid: 19.001,
+  lowestAsk: 19.722,
+}
+{
+  highestBid: 86.84,
+  lowestAsk: 86.88,
+}
+{
+  highestBid: 0.2217,
+  lowestAsk: 0.2218,
+}
+You can convert 1 SOL into 1.0234051050587276 SOL
+You can convert 19.002000000000002 INR into 19.252428000000002 INR
